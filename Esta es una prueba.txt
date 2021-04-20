@@ -3,3 +3,5 @@ Test
 Test9
 naci en Venezuela 
 Viviendo en todo el mundo
+Intenta aprender lo basico de web programming
+Para luego volverse un desarrolador integral
